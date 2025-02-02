@@ -1,7 +1,6 @@
 # Cookie Converter for ChromeKatz Output
 
-First of all, **huge congratulations** to the amazing creator of [ChromeKatz](https://github.com/Meckazin), a tool designed to extract cookies from Chrome's encrypted data stores. Your work has made it significantly easier for security enthusiasts and developers to analyze browser sessions! Thank you for your contribution to the community!
-
+First of all, **huge congratulations** to the amazing creator of [ChromeKatz](https://github.com/Meckazin), a tool designed to extract cookies from Chrome's data stores.
 ---
 
 ## **About This Tool**
