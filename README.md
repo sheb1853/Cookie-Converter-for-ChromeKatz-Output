@@ -5,7 +5,7 @@ First of all, **huge congratulations** to the amazing creator of [ChromeKatz](ht
 
 ## **About This Tool**
 
-This script is designed to convert the output of **ChromeKatz** to a **JSON** format that can be directly imported into the **Cookie Editor** extension for Chrome. It processes extracted cookies and outputs a properly formatted JSON file for easy browser import.
+This script is designed to convert the output of **ChromeKatz** to a **JSON** format that can be directly imported into the **Cookie Editor** extension. It processes extracted cookies and outputs a properly formatted JSON file for easy browser import.
 
 ---
 
